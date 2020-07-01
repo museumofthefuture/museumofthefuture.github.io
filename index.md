@@ -20,4 +20,6 @@ The MOTF's exhibitions are the output of multiple Creative Technology groups. Th
 
 The MOTF's systems are managed using a combination of development operations (DevOps) and facilities management (FM) tools. Yeah that's weird and interesting. :)
 
+### Provisioning to Deployment
 
+As far as possible we want to manage systems using web interfaces and scripted automation.
